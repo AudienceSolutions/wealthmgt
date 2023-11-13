@@ -1,4 +1,6 @@
 # wealthmgt
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAudienceSolutions%2Fwealthmgt.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAudienceSolutions%2Fwealthmgt?ref=badge_shield)
+
 # Retirement Planner Tool
 
 ## Simulation Framework
@@ -41,3 +43,7 @@ python "scripts/retirment_planner.py" \`
 --income_retirement_balance "{'usa_usd': {'annual_pre_tax_income': 40e3, \`    
                     'non_tax_advantaged_savings': 1e5}}" \`    
 --paths 1e1
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAudienceSolutions%2Fwealthmgt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAudienceSolutions%2Fwealthmgt?ref=badge_large)
